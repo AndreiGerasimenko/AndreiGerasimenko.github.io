@@ -1,0 +1,37 @@
+<div class="container">
+    <form novalidate [formGroup]="myForm" class="form">
+        <h2 i18n="@@welcome">Welcome</h2>
+        <mat-form-field>
+            <mat-label i18n="@@loginLabel">Login</mat-label>
+            <input i18n-placeholder type="text" matInput formControlName="login" placeholder="Login">
+            <mat-error i18n="@@loginError" *ngIf="getControl('login').hasError('required')">
+              Login is <strong>required</strong>
+            </mat-error>
+        </mat-form-field>
+        <mat-form-field>
+            <mat-label i18n="@@passwordLabel">Password</mat-label>
+            <input i18n-placeholder type="password" matInput formControlName="password" placeholder="Enter your password">
+            <mat-error i18n="@@passwordError" *ngIf="getControl('password').hasError('required')">
+              Password is <strong>required</strong>
+            </mat-error>
+        </mat-form-field>
+
+        <div 
+            class="invalid-from-message" 
+            [ngStyle]="{'visibility': this.myForm.hasError('invalidLoginData') ? 'visible' : 'hidden'}"
+            i18n="@@formError"
+        >
+            Invalid login data
+        </div>
+
+        <button class="login-button"
+                mat-stroked-button 
+                color="primary"
+                (click)="onsubmit()"
+                type="submit"
+                i18n="@@loginButton"
+        >
+            Log In
+        </button>
+    </form>
+</div>

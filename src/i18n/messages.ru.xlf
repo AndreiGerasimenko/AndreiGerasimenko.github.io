@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en-US" target-language="ru" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="6638492804941946718" datatype="html">
+        <source><x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>Andrii Herasymenko<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/></source>
+        <target><x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>Герасименко Андрей<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/></target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home-page/home-page.component.html</context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5670804015779845578" datatype="html">
+        <source>43 Laherna street, apt. 3, Kyiv, Ukraine</source>
+        <target>ул.Лагерная 43, кв.3, Киев, Украина</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home-page/home-page.component.html</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4867941637564652688" datatype="html">
+        <source>Tel: +38 (093) 373 2137</source>
+        <target>Тел.: +38 (093) 373 2137</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home-page/home-page.component.html</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6377671082701747986" datatype="html">
+        <source>Email: FYLHSQVH@gmail.com</source>
+        <target>Эл.почта.: FYLHSQVH@gmail.com</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home-page/home-page.component.html</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1309692275273324238" datatype="html">
+        <source>Portfolio: andriiherasymenkoportfolio.herokuapp.com</source>
+        <target>Портфолио: andriiherasymenkoportfolio.herokuapp.com</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home-page/home-page.component.html</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="962703529071825380" datatype="html">
+        <source><x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>objective<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/> Junior Front-End Developer</source>
+        <target><x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>Позиция<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/> Junior Front-End Developer</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home-page/home-page.component.html</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8894035018367469015" datatype="html">
+        <source>I passed the way of changing a specialty, attending a programming course after the main job. I have been chosen among twelve candidates after the course ends. I&apos;m highly motivated, eager to learn, and grow. I surely will do my best to deliver quality products to your customers.</source>
+        <target>Я прошёл путь изменения профессии, посещая курсы программирования после основной работы. После окончания курсов я был выбран среди двенадцати кандидатов. Я мотивирован, с большим желание обучаться новому и расти. Приложу все усилия для написания качественного кода.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home-page/home-page.component.html</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6217752795534208672" datatype="html">
+        <source>I have an analytical experience. It took me only 1 year to become the head of the analytical department in Dream Makers company. I won &quot;The best young employee of the 2018 year&quot; award in Dream Makers company. When I was a student, I worked as an analyst in the &quot;Roshen&quot; company - the biggest confectionery company in Ukraine.</source>
+        <target>У меня есть опыт работы аналитиком. Мне понадобился только 1 год чтоб стать руководителем отдела аналитики в компании Dream Makers. Выиграл в номинации &quot;Лучший молодой сотрудник 2018-того года&quot; в компании Dream Makers. Будучи студентом я работал аналитиком в компании &quot;Roshen&quot; - наибольшей кондитерской компании в Укарине.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home-page/home-page.component.html</context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5466723199675018786" datatype="html">
+        <source>personal details</source>
+        <target>персональная информация</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home-page/home-page.component.html</context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1492973359445878919" datatype="html">
+        <source>Date of Birth: 14 May 1992</source>
+        <target>Дата рождения: 14 мая 1992</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home-page/home-page.component.html</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4964472415758048795" datatype="html">
+        <source>Marital Status: Married</source>
+        <target>Семейный статус: Женат</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home-page/home-page.component.html</context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="16579303096081620" datatype="html">
+        <source>education</source>
+        <target>образование</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home-page/home-page.component.html</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1295171126218139458" datatype="html">
+        <source>2010-2016: National Technical University of Ukraine “Kyiv Polytechnic Institute”, “Institute of applied system analysis”</source>
+        <target>2010-2016: НТУУ “КПИ”, “Институт прикладного системного анализа”</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home-page/home-page.component.html</context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="264016913656917469" datatype="html">
+        <source>Field of study: Social informatics, modelling of social processes</source>
+        <target>Специальность: Социальная информатика, моделирование социальных процессов</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home-page/home-page.component.html</context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8602824865121830886" datatype="html">
+        <source>Specialist`s Academic Level</source>
+        <target>Академический уровень - Специалист</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home-page/home-page.component.html</context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3877482157704316931" datatype="html">
+        <source>work experience</source>
+        <target>Опыт работы</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home-page/home-page.component.html</context>
+          <context context-type="linenumber">26</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7876764041764543861" datatype="html">
+        <source>December 2019 – July 2020: Junior Front-End Developer (Angular, React) at “Polytech Software” company.</source>
+        <target>декабрь 2019 - июль 2020: Junior Front-End Developer (Angular, React) в компании “Polytech Software”</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home-page/home-page.component.html</context>
+          <context context-type="linenumber">27</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1752030583891951800" datatype="html">
+        <source>March 2016 – present: Head of Analytical Department at “Dream Makers” company, UA</source>
+        <target>март 2016 - по сегодняшний день: Руководитель отдела аналитики в компании “Dream Makers”</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home-page/home-page.component.html</context>
+          <context context-type="linenumber">28</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3308561530826637333" datatype="html">
+        <source>September 2015 – February 2016: Junior Analyst at “Roshen” corporation, UA</source>
+        <target>сентябрь 2015 – февраль 2016: Junior Analyst в компании “Roshen”, Украина</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home-page/home-page.component.html</context>
+          <context context-type="linenumber">29</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5264243175710177949" datatype="html">
+        <source>personal skills</source>
+        <target>Навыки</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home-page/home-page.component.html</context>
+          <context context-type="linenumber">32</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2008401682126556554" datatype="html">
+        <source>Experienced with:</source>
+        <target>Хороший уровень владения:</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home-page/home-page.component.html</context>
+          <context context-type="linenumber">34</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6607631954118210163" datatype="html">
+        <source>Worked and have understanding of Ngrx</source>
+        <target>Работал с и есть понимание Ngrx</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home-page/home-page.component.html</context>
+          <context context-type="linenumber">39</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7498974545180137450" datatype="html">
+        <source>additional skills</source>
+        <target>Дополнительные навыки</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home-page/home-page.component.html</context>
+          <context context-type="linenumber">42</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3293007325102946635" datatype="html">
+        <source>Languages: English –Upper Intermediate Level</source>
+        <target>Языки: Английский - Выше среднего</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home-page/home-page.component.html</context>
+          <context context-type="linenumber">43</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6652439013230410752" datatype="html">
+        <source>Self-learning; eager to experience and learn new skills; highly-motivated; enthusiastic; good communication skills; good at a team work; responsible for the results of my work.</source>
+        <target>Самообучаем; имею большое желание узичать новые технологии и расти; высокомотивирован; хорошие комуникативные навыки; хорош в командной работе; ответственен за результаты своей работы.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home-page/home-page.component.html</context>
+          <context context-type="linenumber">44</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="506591264522202272" datatype="html">
+        <source> Log Out </source>
+        <target> Выйти </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/home-page/home-page.component.html</context>
+          <context context-type="linenumber">53,54</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="welcome" datatype="html">
+        <source>Welcome</source>
+        <target> Добро пожаловать </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/login-page/login-page.component.html</context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="loginLabel" datatype="html">
+        <source>Login</source>
+        <target> Логин </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/login-page/login-page.component.html</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2454050363478003966" datatype="html">
+        <source>Login</source>
+        <target> Логин </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/login-page/login-page.component.html</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="loginError" datatype="html">
+        <source> Login is <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>required<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/></source>
+        <target> Логин <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>обязательное<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/> поле</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/login-page/login-page.component.html</context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="passwordLabel" datatype="html">
+        <source>Password</source>
+        <target>Пароль</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/login-page/login-page.component.html</context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2772023564304193657" datatype="html">
+        <source>Enter your password</source>
+        <target>Введите пароль</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/login-page/login-page.component.html</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="passwordError" datatype="html">
+        <source> Password is <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>required<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/></source>
+        <target>Пароль <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>обязательное<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/> поле</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/login-page/login-page.component.html</context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="formError" datatype="html">
+        <source> Invalid login data </source>
+        <target> Неправильные данные </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/login-page/login-page.component.html</context>
+          <context context-type="linenumber">24,25</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="loginButton" datatype="html">
+        <source> Log In </source>
+        <target> Войти </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/login-page/login-page.component.html</context>
+          <context context-type="linenumber">34,35</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

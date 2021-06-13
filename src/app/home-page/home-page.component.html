@@ -1,0 +1,55 @@
+<div class="conatiner">
+    <section>
+        <h3 i18n><strong>Andrii Herasymenko</strong></h3>
+        <p i18n>43 Laherna street, apt. 3, Kyiv, Ukraine</p>
+        <p i18n>Tel: +38 (093) 373 2137</p>
+        <p i18n>Email: FYLHSQVH@gmail.com</p>
+        <p i18n>Portfolio: andriiherasymenkoportfolio.herokuapp.com</p>
+    </section>
+    <section>
+        <h2 i18n><strong>objective</strong> Junior Front-End Developer</h2>
+        <p i18n>I passed the way of changing a specialty, attending a programming course after the main job. I have been chosen among twelve candidates after the course ends. I'm highly motivated, eager to learn, and grow. I surely will do my best to deliver quality products to your customers.</p>
+        <p i18n>I have an analytical experience. It took me only 1 year to become the head of the analytical department in Dream Makers company. I won "The best young employee of the 2018 year" award in Dream Makers company. When I was a student, I worked as an analyst in the "Roshen" company - the biggest confectionery company in Ukraine.</p>
+    </section>
+    <section>
+        <h2 i18n>personal details</h2>
+        <p i18n>Date of Birth: 14 May 1992</p>
+        <p i18n>Marital Status: Married</p>
+    </section>
+    <section>
+        <h2 i18n>education</h2>
+        <p i18n>2010-2016: National Technical University of Ukraine “Kyiv Polytechnic Institute”, “Institute of applied system analysis”</p>
+        <p i18n>Field of study: Social informatics, modelling of social processes</p>
+        <p i18n>Specialist`s Academic Level</p>
+    </section>
+    <section>
+        <h2 i18n>work experience</h2>
+        <p i18n>December 2019 – July 2020: Junior Front-End Developer (Angular, React) at “Polytech Software” company.</p>
+        <p i18n>March 2016 – present: Head of Analytical Department at “Dream Makers” company, UA</p>
+        <p i18n>September 2015 – February 2016: Junior Analyst at “Roshen” corporation, UA</p>
+    </section>
+    <section>
+        <h2 i18n>personal skills</h2>
+        <div>
+            <span i18n>Experienced with:</span>
+            <ul>
+                <li *ngFor="let skill of skills">{{ skill }}</li>
+            </ul>
+        </div>
+        <p i18n>Worked and have understanding of Ngrx</p>
+    </section>
+    <section>
+        <h2 i18n>additional skills</h2>
+        <p i18n>Languages: English –Upper Intermediate Level</p>
+        <p i18n>Self-learning; eager to experience and learn new skills; highly-motivated; enthusiastic; good communication skills; good at a team work; responsible for the results of my work.</p>
+    </section>
+
+    <button class="login-button"
+            mat-stroked-button 
+            color="primary"
+            (click)="onlogout()"
+            i18n
+    >
+        Log Out
+    </button>
+</div>

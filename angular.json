@@ -13,11 +13,17 @@
       "root": "",
       "sourceRoot": "src",
       "prefix": "app",
+      "i18n": {
+        "sourceLocale": "en-US",
+        "locales": {
+          "ru": "src/i18n/messages.ru.xlf"
+        }
+      },
       "architect": {
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "outputPath": "dist/angular-cv",
+            "outputPath": "dist/",
             "index": "src/index.html",
             "main": "src/main.ts",
             "polyfills": "src/polyfills.ts",
@@ -27,11 +33,15 @@
               "src/assets"
             ],
             "styles": [
+              "./node_modules/@angular/material/prebuilt-themes/deeppurple-amber.css",
               "src/styles.css"
             ],
             "scripts": []
           },
           "configurations": {
+            "ru": {
+              "localize": ["ru"]
+            },
             "production": {
               "budgets": [
                 {
@@ -70,6 +80,9 @@
             "production": {
               "browserTarget": "angular-cv:build:production"
             },
+            "ru": {
+              "browserTarget": "angular-cv:build:ru"
+            },
             "development": {
               "browserTarget": "angular-cv:build:development"
             }
@@ -94,6 +107,7 @@
               "src/assets"
             ],
             "styles": [
+              "./node_modules/@angular/material/prebuilt-themes/deeppurple-amber.css",
               "src/styles.css"
             ],
             "scripts": []
