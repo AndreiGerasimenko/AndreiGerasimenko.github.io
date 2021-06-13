@@ -10,7 +10,15 @@ import { LoginServiceService } from '../services/login-service.service';
   styleUrls: ['./login-page.component.css']
 })
 export class LoginPageComponent {
-  myForm: FormGroup;
+  myForm: FormGroup
+  languages: any[] = [
+    {
+      ref: '/', text: 'English',
+    },
+    {
+      ref: '/ru/', text: 'Русский'
+    }
+  ]
 
   constructor(
     private formBuilder: FormBuilder, 

@@ -13,9 +13,19 @@
   align-items: center;
   min-height: 250px;
   min-width: 250px;
-  padding: 20px 10px;
+  padding: 20px 10px 20px;
   border-radius: 10px;
   box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.2);
+  position: relative;
+}
+
+.link-container {
+  display: flex;
+  align-self: flex-end;
+}
+
+.link-container a {
+  margin-right: 10px;
 }
 
 h2 {

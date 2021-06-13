@@ -1,5 +1,8 @@
 <div class="container">
     <form novalidate [formGroup]="myForm" class="form">
+        <div class="link-container">
+            <a *ngFor="let lang of languages" href="{{ lang.ref }}">{{ lang.text }}</a>
+        </div>
         <h2 i18n="@@welcome">Welcome</h2>
         <mat-form-field>
             <mat-label i18n="@@loginLabel">Login</mat-label>
@@ -33,5 +36,6 @@
         >
             Log In
         </button>
+        
     </form>
 </div>
